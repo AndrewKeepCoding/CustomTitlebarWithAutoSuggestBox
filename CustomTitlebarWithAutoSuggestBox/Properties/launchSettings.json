@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CustomTitlebarWithAutoSuggestBox (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CustomTitlebarWithAutoSuggestBox (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
